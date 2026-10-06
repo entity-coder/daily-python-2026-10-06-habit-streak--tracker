@@ -67,3 +67,5 @@ Read 20 minutes               3       ✅
 - No reminders, no history editing, no non-daily frequencies — deliberately out of scope for v1.
 
 **How I'd extend it:** scheduled reminders (cron or desktop notification), weekly/non-daily habit frequencies, a `--json` flag for scripting, and rest-day / streak-freeze support.
+
+*Part of a daily portfolio series — one small project every day.*
